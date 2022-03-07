@@ -1,0 +1,24 @@
+{
+  "name": "svelte-parcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BriNelson/svelte-parcel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BriNelson/svelte-parcel/issues"
+  },
+  "homepage": "https://github.com/BriNelson/svelte-parcel#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "parcel-plugin-svelte": "^4.0.9",
+    "svelte": "^3.46.4"
+  }
+}
