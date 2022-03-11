@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":";AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"src.e31bb0bc.css","sourceRoot":"..\\src","sourcesContent":[".appContainer{\r\n    max-width: 500px;\r\n    margin: 0 auto;\r\n    \r\n    \r\n}\r\nimg{\r\n    max-width: 500px;\r\n    margin-bottom: 20px;\r\n}\r\n\r\n\r\n"]}

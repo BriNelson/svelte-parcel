@@ -22,5 +22,8 @@
     "parcel-bundler": "^1.12.5",
     "parcel-plugin-svelte": "^4.0.9",
     "svelte": "^3.46.4"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
   }
 }
