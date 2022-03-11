@@ -6,7 +6,7 @@
   const element = document.createElement('div');
 
   
-  element.innerHTML = _.join(['lodash js module', 'is being imported line 6 of app.svelte'], ' ');
+  element.innerHTML = _.join(['lodash js module', 'is being imported line 6 of app.svelte, this was done with parcel'], ' ');
 
   return element;
 }

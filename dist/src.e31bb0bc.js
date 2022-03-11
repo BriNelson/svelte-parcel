@@ -22287,19 +22287,19 @@ function create_each_block(ctx) {
       t5 = (0, _internal.space)();
       (0, _internal.attr_dev)(button0, "type", "button");
       (0, _internal.attr_dev)(button0, "class", "btn btn-light");
-      (0, _internal.add_location)(button0, file, 66, 35, 1703);
+      (0, _internal.add_location)(button0, file, 66, 35, 1730);
       (0, _internal.attr_dev)(div0, "class", "me-5");
-      (0, _internal.add_location)(div0, file, 66, 4, 1672);
+      (0, _internal.add_location)(div0, file, 66, 4, 1699);
       (0, _internal.attr_dev)(button1, "type", "button");
       (0, _internal.attr_dev)(button1, "class", "btn btn-danger");
-      (0, _internal.add_location)(button1, file, 67, 10, 1772);
+      (0, _internal.add_location)(button1, file, 67, 10, 1799);
       (0, _internal.attr_dev)(button2, "class", "btn btn-success");
-      (0, _internal.add_location)(button2, file, 67, 104, 1866);
+      (0, _internal.add_location)(button2, file, 67, 104, 1893);
       (0, _internal.attr_dev)(div1, "class", "d-flex flex-row list-group-item svelte-17h9ap3");
       (0, _internal.toggle_class)(div1, "status",
       /*item*/
       ctx[10].competed);
-      (0, _internal.add_location)(div1, file, 65, 2, 1592);
+      (0, _internal.add_location)(div1, file, 65, 2, 1619);
     },
     m: function mount(target, anchor) {
       (0, _internal.insert_dev)(target, div1, anchor);
@@ -22403,27 +22403,27 @@ function create_fragment(ctx) {
 
       if (!(0, _internal.src_url_equal)(img_1.src, img_1_src_value = _todoListBanner.default)) (0, _internal.attr_dev)(img_1, "src", img_1_src_value);
       (0, _internal.attr_dev)(img_1, "alt", "banner");
-      (0, _internal.add_location)(img_1, file, 47, 2, 1124);
+      (0, _internal.add_location)(img_1, file, 47, 2, 1151);
       (0, _internal.attr_dev)(input, "class", "form-control");
       (0, _internal.attr_dev)(input, "type", "text");
-      (0, _internal.add_location)(input, file, 51, 4, 1251);
+      (0, _internal.add_location)(input, file, 51, 4, 1278);
       (0, _internal.attr_dev)(div0, "class", "col");
-      (0, _internal.add_location)(div0, file, 50, 4, 1228);
+      (0, _internal.add_location)(div0, file, 50, 4, 1255);
       (0, _internal.attr_dev)(button0, "class", "btn btn-primary");
-      (0, _internal.add_location)(button0, file, 55, 4, 1357);
+      (0, _internal.add_location)(button0, file, 55, 4, 1384);
       (0, _internal.attr_dev)(div1, "class", "col");
-      (0, _internal.add_location)(div1, file, 53, 4, 1330);
+      (0, _internal.add_location)(div1, file, 53, 4, 1357);
       (0, _internal.attr_dev)(div2, "class", "row");
-      (0, _internal.add_location)(div2, file, 49, 2, 1205);
-      (0, _internal.add_location)(form, file, 48, 0, 1156);
+      (0, _internal.add_location)(div2, file, 49, 2, 1232);
+      (0, _internal.add_location)(form, file, 48, 0, 1183);
       (0, _internal.attr_dev)(button1, "class", "btn btn-primary");
-      (0, _internal.add_location)(button1, file, 60, 0, 1440);
+      (0, _internal.add_location)(button1, file, 60, 0, 1467);
       (0, _internal.attr_dev)(div3, "class", "list-group");
-      (0, _internal.add_location)(div3, file, 61, 0, 1527);
+      (0, _internal.add_location)(div3, file, 61, 0, 1554);
       (0, _internal.attr_dev)(div4, "class", "container");
-      (0, _internal.add_location)(div4, file, 46, 0, 1097);
+      (0, _internal.add_location)(div4, file, 46, 0, 1124);
       (0, _internal.attr_dev)(div5, "class", "appContainer");
-      (0, _internal.add_location)(div5, file, 44, 0, 1065);
+      (0, _internal.add_location)(div5, file, 44, 0, 1092);
     },
     l: function claim(nodes) {
       throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
@@ -22535,7 +22535,7 @@ function instance($$self, $$props, $$invalidate) {
 
   function component() {
     var element = document.createElement('div');
-    element.innerHTML = _lodash.default.join(['lodash js module', 'is being imported line 6 of app.svelte'], ' ');
+    element.innerHTML = _lodash.default.join(['lodash js module', 'is being imported line 6 of app.svelte, this was done with parcel'], ' ');
     return element;
   }
 
